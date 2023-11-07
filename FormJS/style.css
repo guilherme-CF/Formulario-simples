@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(37, 70, 216);
+}
+header {
+  color: aliceblue;
+  text-align: center;
+  font-size: 28px;
+}
+section {
+  background-color: aliceblue;
+  border-radius: 10px;
+  padding: 14px;
+  width: 450px;
+  margin: auto;
+  box-shadow: 5px 5px 15px rgba(60, 60, 60, 0.715);
+}
+div {
+  text-align: center;
+}
+#msg {
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+#status {
+  background-color: rgb(144, 144, 144);
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  text-align: center;
+  font-size: 25px;
+  padding: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#res {
+  align-items: center;
+}
+
+footer {
+  color: aliceblue;
+  text-align: center;
+  font-style: italic;
+}
